@@ -2,10 +2,10 @@
 int main() {
     char ch[] = "My country name is India";
     char letter = 'D';
-    char letter1 = 'H';
+    char letter2 = 'H';
 
     printf("%s\n" , ch);
-    printf("%c\n%c" , letter , letter1);
+    printf("%c\n%c" , letter , letter2);
 
     return 0;
 
