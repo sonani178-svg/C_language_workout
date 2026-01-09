@@ -2,10 +2,10 @@
 int main(){
 float celsius, ferhenheit;
 
-printf("enter a temprature in Celsius");
+printf("enter a temprature in Celsius : ");
 scanf("%f", &celsius );
 
-ferhenheit = (9/5*celsius)+32;
+ferhenheit = (1.8 * celsius) + 32;
 printf("tempratur in farhenheit : %f" , ferhenheit);
 
 
